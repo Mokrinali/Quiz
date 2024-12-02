@@ -1,0 +1,12 @@
+C:\Users\kikia\OneDrive\Desktop\Quiz 02.12.2024\QuizApp\QuizApp.Data\bin\Debug\net8.0\QuizApp.Data.deps.json
+C:\Users\kikia\OneDrive\Desktop\Quiz 02.12.2024\QuizApp\QuizApp.Data\bin\Debug\net8.0\QuizApp.Data.dll
+C:\Users\kikia\OneDrive\Desktop\Quiz 02.12.2024\QuizApp\QuizApp.Data\bin\Debug\net8.0\QuizApp.Data.pdb
+C:\Users\kikia\OneDrive\Desktop\Quiz 02.12.2024\QuizApp\QuizApp.Data\obj\Debug\net8.0\QuizApp.Data.csproj.AssemblyReference.cache
+C:\Users\kikia\OneDrive\Desktop\Quiz 02.12.2024\QuizApp\QuizApp.Data\obj\Debug\net8.0\QuizApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kikia\OneDrive\Desktop\Quiz 02.12.2024\QuizApp\QuizApp.Data\obj\Debug\net8.0\QuizApp.Data.AssemblyInfoInputs.cache
+C:\Users\kikia\OneDrive\Desktop\Quiz 02.12.2024\QuizApp\QuizApp.Data\obj\Debug\net8.0\QuizApp.Data.AssemblyInfo.cs
+C:\Users\kikia\OneDrive\Desktop\Quiz 02.12.2024\QuizApp\QuizApp.Data\obj\Debug\net8.0\QuizApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\kikia\OneDrive\Desktop\Quiz 02.12.2024\QuizApp\QuizApp.Data\obj\Debug\net8.0\QuizApp.Data.dll
+C:\Users\kikia\OneDrive\Desktop\Quiz 02.12.2024\QuizApp\QuizApp.Data\obj\Debug\net8.0\refint\QuizApp.Data.dll
+C:\Users\kikia\OneDrive\Desktop\Quiz 02.12.2024\QuizApp\QuizApp.Data\obj\Debug\net8.0\QuizApp.Data.pdb
+C:\Users\kikia\OneDrive\Desktop\Quiz 02.12.2024\QuizApp\QuizApp.Data\obj\Debug\net8.0\ref\QuizApp.Data.dll
